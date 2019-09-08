@@ -12,5 +12,5 @@ In any case however, make sure to read about the **best practices for communicat
 Also, we expect you all to **handle as many errors as possible**, so that no matter what the user does, your app should not loose its functionality.
 
 ## The Deadline
-**Start Date:** 10th September  
-**End Date:** 14th September
+**Start Date:** 9th September  
+**End Date:** 13th September
